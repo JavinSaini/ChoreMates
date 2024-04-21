@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360668984663",
+    "project_id": "choremates-840da",
+    "storage_bucket": "choremates-840da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360668984663:android:82279ddc002be13535fa12",
+        "android_client_info": {
+          "package_name": "com.app.choresmates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsv3uDUVPxh5cfDzuqXMKWt-cndqve0DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
